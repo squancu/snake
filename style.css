@@ -1,0 +1,33 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    background-color: #E8F8E8;
+    background-size: cover;
+  }
+
+button {
+    background-color: #296529; 
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    display: block;
+    margin: 0 auto;
+}
